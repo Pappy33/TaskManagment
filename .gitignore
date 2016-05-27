@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+.vs/TaskManagment/v14/.suo
+TaskManagment/TaskManagment.csproj
+TaskManagment/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
